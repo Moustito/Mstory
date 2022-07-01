@@ -1,3 +1,5 @@
+##J'ai abondonnée la logique##
+
 Des chasseurs partirent avec leurs ***chameaux***. Arrivés au pays de la
 chasse, ils lâchèrent leurs montures pour les laisser paître. Eux-mêmes
 chassaient 
@@ -15,3 +17,5 @@ It can’t be seen from him.
 It has gone [tarnished](https://medium.com/3-lines-story/hang-fire-fe4868364805) in the city’s dazzle.
 
 ====== 
+
+Il y a un ***bug*** ici ? non ? ok...
