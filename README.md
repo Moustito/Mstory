@@ -4,4 +4,13 @@ jusqu'au coucher du soleil et revenaient ensuite à leurs campements.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in sem vehicula, vestibulum ligula pellentesque, consectetur arcu. In arcu ipsum, feugiat quis gravida eu, pretium in mauris.
 
-le text de eddy qui a un peu galéré '-' 
+le text de eddy qui a un peu galéré '-'
+
+======
+
+## Hang Fire.
+An oil lamp burning at his home’s doorway.
+It can’t be seen from him.
+It has gone [tarnished](https://medium.com/3-lines-story/hang-fire-fe4868364805) in the city’s dazzle.
+
+====== 
